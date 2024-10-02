@@ -1,4 +1,4 @@
 # Demo Repository
 
-This is repsitory
+This is repository
 
